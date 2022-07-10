@@ -352,7 +352,7 @@ const option = {
 
 ### link(string)
 
-点击此节点可跳转的超链接。须 [series-sunburst.nodeClick](~series-treemap.nodeClick) 值为 `'link'` 时才生效。
+点击此节点可跳转的超链接。须 [series-sunburst.nodeClick](~series-sunburst.nodeClick) 值为 `'link'` 时才生效。
 
 参见 [series-sunburst.data.target](~series-sunburst.data.target)。
 
